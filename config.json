@@ -1,0 +1,16 @@
+{
+    "boosts": {
+        "Multitap": {
+            "maxLevel": 5,
+            "priority": 1
+        },
+        "Energy limit": {
+            "maxLevel": 5,
+            "priority": 2
+        }
+    },
+    "general": {
+        "enableAutoUpgrade": true,
+        "minBalanceToKeep": 1000
+    }
+}
